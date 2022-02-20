@@ -190,3 +190,4 @@ function j3w_get_ancestors_path($term_id, $taxonomy)
 
     return $path;
 }
+
