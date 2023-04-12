@@ -2,7 +2,7 @@
 /**
  * Plugin Name: SIT rewrite
  * Description: Lepší adresy pro CPT a taxonomy
- * Version: 1.0.0
+ * Version: 1.0.2
  * Author: SIT:Jaroslav Dvořák
  **/
 
